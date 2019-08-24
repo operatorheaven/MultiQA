@@ -1,2 +1,2 @@
 # MultiQA
-Do QA check using Multi-Process control
+Do QA check with Multi-Process control
